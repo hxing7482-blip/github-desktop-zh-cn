@@ -1,0 +1,12 @@
+{
+  "name": "github-desktop-zh-cn",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Unofficial Simplified Chinese UI patch for GitHub Desktop",
+  "license": "MIT",
+  "scripts": {
+    "test:native": "node tests/native.cjs",
+    "test:ui": "node tests/ui.cjs"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}

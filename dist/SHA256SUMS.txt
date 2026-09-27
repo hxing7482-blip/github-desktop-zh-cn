@@ -1,0 +1,2 @@
+63b4bc2a807a4a7d800fb7b6482c7e61dd9bbf8689989c69500e4c91961f107a  GitHub-Desktop-Chinese-macOS-0.3.0.zip
+0061b01a381c9dc23574ed6a648d5dd0660f0e224a9d2c8251a510dfad2d6d83  GitHub-Desktop-Chinese-Windows-0.3.0.zip

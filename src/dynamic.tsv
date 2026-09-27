@@ -1,0 +1,84 @@
+Update from {0}	从 {0} 更新
+Delete tag {0}	删除标签 {0}
+Primary Remote Repository ({0}) URL	主要远程仓库（{0}）网址
+Fetch the latest changes from {0}	从 {0} 获取最新更改
+Pull {0} with rebase	通过变基拉取 {0}
+Choose a branch to merge into {0}	选择要合并到 {0} 的分支
+View {0} on GitHub	在 GitHub 上查看 {0}
+Pull requests in {0}	{0} 中的拉取请求
+Current worktree is {0}	当前工作树为 {0}
+View the files of your repository in {0}	在 {0} 中查看仓库文件
+Pull {0} from the {1} remote	从远程 {1} 拉取 {0}
+Push {0} to the {1} remote	将 {0} 推送到远程 {1}
+You have {0} waiting to be pushed to {1}.	你有 {0} 等待推送到 {1}。
+This commit has {0} to push	此提交有 {0} 待推送
+Included in commit ({0})	包含在提交中（{0}）
+Excluded from commit ({0})	不包含在提交中（{0}）
+New files ({0})	新增文件（{0}）
+Modified files ({0})	已修改文件（{0}）
+Deleted files ({0})	已删除文件（{0}）
+Filter Options {0}	筛选选项 {0}
+Discard {0} Selected Changes	丢弃 {0} 项所选更改
+Discard {0} Lines…	丢弃 {0} 行…
+Discard {0} Line…	丢弃 {0} 行…
+Discard {0} Lines	丢弃 {0} 行
+Discard {0} Line	丢弃 {0} 行
+Ignore {0} Selected Files (Add to .gitignore)	忽略 {0} 个所选文件（添加到 .gitignore）
+Ignore All {0} Files (Add to .gitignore)	忽略所有 {0} 文件（添加到 .gitignore）
+Behind ({0})	落后（{0}）
+Ahead ({0})	领先（{0}）
+Leave my changes on {0}	将我的更改留在 {0}
+Bring my changes to {0}	将我的更改带到 {0}
+Confirm Abort {0}	确认中止{0}
+{0} Will Require Force Push	{0}将需要强制推送
+Resolve conflicts before {0}	请先解决冲突，再进行{0}
+Resolving conflicts for {0}	正在为{0}解决冲突
+Use current file from {0}	使用来自 {0} 的当前文件
+Use incoming file from {0}	使用来自 {0} 的传入文件
+Using changes from {0}	正在使用来自 {0} 的更改
+Deleting file (deleted on {0})	正在删除文件（已在 {0} 删除）
+Create Repository Alias	创建仓库别名
+Change Repository Alias	修改仓库别名
+No results for "{0}"	没有找到“{0}”的结果
+Result {0} of {1} for "{2}"	“{2}”的第 {0} 条结果，共 {1} 条
+No matches found for '{0}'	没有找到“{0}”的匹配项
+Loading repositories from {0}…	正在从 {0} 加载仓库…
+A branch named {0} already exists.	名为 {0} 的分支已存在。
+Another model with the identifier '{0}' already exists.	标识符为“{0}”的模型已存在。
+Enter passphrase for key '{0}':	请输入密钥“{0}”的口令：
+Enter password for '{0}':	请输入“{0}”的密码：
+Open pull request #{0} in browser	在浏览器中打开拉取请求 #{0}
+Open in browser: {0}	在浏览器中打开：{0}
+Use of credits: {0}	点数使用量：{0}
+Use my GitHub{0} account name and email address	使用我的 GitHub{0} 账户名称和邮箱
+{0} hook running…	{0} 钩子正在运行…
+{0} hook finished	{0} 钩子已完成
+{0} hook failed	{0} 钩子执行失败
+Before commit {0}	提交 {0} 之前
+After commit {0}	提交 {0} 之后
+Move {0} here	将 {0} 移到此处
+Rename {0}	重命名 {0}
+Edit {0}	编辑 {0}
+Remove {0}	移除 {0}
+Create {0}	创建 {0}
+Delete {0}	删除 {0}
+Update {0}	更新 {0}
+Download {0}	下载 {0}
+Begin {0}	开始{0}
+Continue {0}	继续{0}
+Abort {0}	中止{0}
+Re-run {0}	重新运行 {0}
+Reading {0}	正在读取 {0}
+Analyzing {0}	正在分析 {0}
+Checking out {0}	正在检出 {0}
+Rebasing {0}	正在变基 {0}
+{0} Pull Request	{0}拉取请求
+{0} local commits	{0} 个本地提交
+{0} conflicted files	{0} 个冲突文件
+{0} conflicted file	{0} 个冲突文件
+{0} AI credits used	已使用 {0} AI 点数
+{0}% quota used	已使用 {0}% 配额
+Version {0}	版本 {0}
+Build {0}	构建 {0}
+Bypass {0}	绕过{0}
+Why are you bypassing this {0}?	为什么要绕过此{0}？
